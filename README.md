@@ -52,5 +52,8 @@ All transactions are handled reactively in the application code to maintain refe
 python3 create_schema.py
 python3 menu.py
 ```
+## Project Presentation Video
+
+You can watch our full DBMS Transactions Project presentation here:
 **Google Drive Video Link:**  
 https://drive.google.com/file/d/1EtmSajH8lKZjKbE-2wMoNgsOPcPIseM5/view
